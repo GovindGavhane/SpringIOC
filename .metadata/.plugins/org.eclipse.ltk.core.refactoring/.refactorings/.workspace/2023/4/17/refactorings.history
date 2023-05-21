@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;SpringIOC_Car_Demo&apos; to &apos;SpringIOC_Setter_Constructor_usingXML&apos;&#x0D;&#x0A;- Original element: &apos;SpringIOC_Car_Demo&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringIOC_Car_Demo&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;SpringIOC_Car_Demo&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=SpringIOC_Car_Demo" name="SpringIOC_Setter_Constructor_usingXML" references="true" stamp="1682572971956" version="1.0"/>
+</session>
